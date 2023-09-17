@@ -3,6 +3,30 @@
 
 ## Porject Description 
 This project is an example of a magazine webpage built using HTML and CSS. It showcases various HTML elements and CSS styles to create an attractive and responsive magazine layout.
+## HTML Structure
+### Main Section:
+- `<main>`: The main content of the web page.
+    - `<section class="heading">`: Section for the heading.
+      - `<header class="hero">`: Header for the hero section.
+        - `<img src="https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png" alt="freecodecamp logo" loading="lazy" class="hero-img">`: Hero image.
+        - `<h1 class="hero-title">OUR NEW CURRICULUM</h1>`: Hero title.
+        - `<p class="hero-subtitle">Our efforts to restructure our curriculum with a more project-based focus</p>`: Hero subtitle.
+      - `<div class="author">`: Author information.
+        - `<p class="author-name">`: Author's name.
+          - `<a href="https://freecodecamp.org" target="_blank" rel="noreferrer">freeCodeCamp</a>`: Author's link.
+        - `<p class="publish-date">March 7, 2019</p>`: Publish date.
+      - `<div class="social-icons">`: Social media icons.
+        - Social media links with Font Awesome icons.
+
+    - `<section class="text">`: Section for text content.
+      - Text paragraphs, quotes, and blockquotes.
+
+    - `<section class="text text-with-images">`: Section for text with images.
+      - `<article class="brief-history">`: Article about the brief history.
+        - List of versions with descriptions.
+      - `<aside class="image-wrapper">`: Image aside.
+        - Images with descriptions.
+        
 ## Global Styles
 - `*`, `::before`, `::after`
   - `padding: 0; margin: 0;`: Resets padding and margin for all elements.
@@ -84,4 +108,4 @@ This project is an example of a magazine webpage built using HTML and CSS. It sh
 - Adjust styles for different screen widths to ensure responsiveness.
 - Modify font sizes, layout, and other styles for better user experience on smaller screens.
 
-These CSS properties and values contribute to the layout and styling of the Magazine project webpage.
+

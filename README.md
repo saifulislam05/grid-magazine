@@ -1,6 +1,7 @@
 # Grid - Magazine Ass CSS
 
-
+## Hosted Link
+You can view the project live at [View Live Project](https://saifulislam05.github.io/grid-magazine/)
 ## Porject Description 
 This project is an example of a magazine webpage built using HTML and CSS. It showcases various HTML elements and CSS styles to create an attractive and responsive magazine layout.
 
@@ -31,7 +32,7 @@ This project is an example of a magazine webpage built using HTML and CSS. It sh
         - List of versions with descriptions.
       - `<aside class="image-wrapper">`: Image aside.
         - Images with descriptions.
-        
+
 ## Global Styles
 - `*`, `::before`, `::after`
   - `padding: 0; margin: 0;`: Resets padding and margin for all elements.

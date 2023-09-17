@@ -3,7 +3,12 @@
 
 ## Porject Description 
 This project is an example of a magazine webpage built using HTML and CSS. It showcases various HTML elements and CSS styles to create an attractive and responsive magazine layout.
+
+## UI
+![image](https://github.com/saifulislam05/grid-magazine/assets/73392705/138b1092-49df-41b6-9e36-5bd92e03acd7)
+
 ## HTML Structure
+
 ### Main Section:
 - `<main>`: The main content of the web page.
     - `<section class="heading">`: Section for the heading.
